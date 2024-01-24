@@ -1,3 +1,3 @@
 # ayushraj-demo
 This is my sort project
-Author - Ayush Raj
+Author - Ayush Raj Srivastava
